@@ -1,0 +1,14 @@
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\obj\Debug\BDcreadorCSVoleDB.frmPrincipal.resources
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\obj\Debug\BDcreadorCSVoleDB.frmVisualizadorTabla.resources
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\obj\Debug\BDcreadorCSVoleDB.csproj.GenerateResource.Cache
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\obj\Debug\BDcreadorCSVoleDB.csproj.CoreCompileInputs.cache
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\obj\Debug\BDcreadorCSVoleDB.csprojResolveAssemblyReference.cache
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\bin\Debug\BDcreadorChoques.exe.config
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\bin\Debug\BDcreadorChoques.exe
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\bin\Debug\BDcreadorChoques.pdb
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\obj\Debug\BDcreadorChoques.exe
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\obj\Debug\BDcreadorChoques.pdb
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\obj\Debug\BDcreadorCSVoleDB.frmAnalisis.resources
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\obj\Debug\BDcreadorCSVoleDB.Properties.Resources.resources
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\obj\Debug\BDcreadorCSVoleDB.frmInforme.resources
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\obj\Debug\BDcreadorCSVoleDB.frmEspera.resources

@@ -1,0 +1,11 @@
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\bin\Debug\BDbusinessIntelligence.exe.config
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\bin\Debug\BDbusinessIntelligence.exe
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\bin\Debug\BDbusinessIntelligence.pdb
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\obj\Debug\BDbusinessIntelligence.csprojResolveAssemblyReference.cache
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\obj\Debug\BDbusinessIntelligence.frmPrincipal.resources
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\obj\Debug\BDbusinessIntelligence.frmVisualizadorTabla.resources
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\obj\Debug\BDbusinessIntelligence.Properties.Resources.resources
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\obj\Debug\BDbusinessIntelligence.csproj.GenerateResource.Cache
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\obj\Debug\BDbusinessIntelligence.csproj.CoreCompileInputs.cache
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\obj\Debug\BDbusinessIntelligence.exe
+E:\Codigos\VisualStudio2017\BDbusinessIntelligence\BDbusinessIntelligence\obj\Debug\BDbusinessIntelligence.pdb
